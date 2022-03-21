@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\MainWindow.g.cs
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\App.g.cs
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.cache
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.lref
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\MainWindow.baml
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.g.resources
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.Properties.Resources.resources
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Pages\SQuare.g.cs
+C:\Users\nikit\source\repos\Zadanie2\Zadanie2\obj\Debug\Pages\Lineinoe.g.cs
